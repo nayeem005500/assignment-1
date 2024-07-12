@@ -1,0 +1,140 @@
+
+.azeret-mono-narmal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-title{
+    font-size: 28px;
+    font-weight: 800;
+    color: #0d1321;
+}
+.pri-button{
+    color: #0d1321;
+    /* padding: 25px; */
+    /* border-radius: 5px; */
+}
+nav{
+    margin: 25px 50px;
+}
+.btn-cwm{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
+.banner{
+    /* display: flex; */
+    justify-content: center;
+    /* max-width: 1140px; */
+    margin: 0 auto;
+    text-align: center;
+}
+.banner{
+    background-image: url('../assets/Hero-bg.png');
+}
+.section-title{
+font-size: 32px;
+font-weight: 800;
+color: #0D1321;
+}
+.section-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0d1321;
+}
+.secondary-bg{
+    background-color: rgba(13, 19, 33, 0.02);
+    padding: 80px 97px;
+}
+ main{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 120px 120px;
+    text-align: center;
+ }
+ .item-title{
+font-size: 25px;
+font-weight: 600;
+ }
+ .item-description{
+font-size: 16px;
+font-weight: 400;
+ }
+ .why{
+    display: flex;
+    margin: 5px;
+ }
+ .why-secondary-bg{
+    text-align: center;  
+    /* padding: 0 0 0 10px; */
+ }
+ .whys{
+   padding-top: 50px;
+ }
+.skills-container{
+justify-content: center;
+margin: 0px 50px;
+}
+.skill{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+.a{
+    color: black;
+}
+.b{
+text-align: left;
+}
+.abc{
+    text-align: left;
+}
+.skill-container{
+   display: flex;
+   margin: 0px 50px; 
+}
+.skills{
+    text-align: left;
+    padding: 20px;
+}
+.c{
+    text-align: left;
+}
+.current-target{
+    margin-bottom: 100px;
+}
+.z{
+ 
+}
+footer{
+    padding: 64px 48px;
+    background-image: url('../assets/handshake.jpg');
+}
+.section-ti{
+    color: white;
+}
+.section-des{
+    color: white;
+}
+footer{
+    text-align: center;
+    margin: 180px 150px;
+}
+.inspiration{
+    margin-bottom: 100px;
+}
+.y{
+    background-image: none;
+    display: flex;
+    justify-content: space-between;
+}
+.x{
+    font-size: 20px;
+    font-weight: 600;
+}
